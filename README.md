@@ -77,5 +77,5 @@ _Auburn, AL_ | _Expected Graduation: May 2027_
 
 Thank you for visiting my profile! Feel free to explore my repositories, connect with me, and join me on this exciting journey of coding and innovation.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jack-frederick-a626b22b0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jack-frederick-a626b22b0/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-333?style=for-the-badge&logo=google-chrome&logoColor=white)](https://thejackfrederick.com)
