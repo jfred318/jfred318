@@ -37,7 +37,7 @@ _Auburn, AL_ | _Expected Graduation: May 2027_
 
 ### Weather Analysis
 > Scrum Master, Developer | 2024  
-- Particiapted in a team project comparing climate changes across regions, advancing from beta to alpha stage.
+- Participated in a team project comparing climate changes across regions, advancing from beta to alpha stage.
 
 ---
 
