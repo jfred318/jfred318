@@ -49,7 +49,7 @@ _Auburn, AL_ | _Expected Graduation: May 2027_
 - Authored club constitution and bylaws, and led promotional activities for campus engagement.
 
 ### Self-Employed Investor
-> Investor | Remote  
+> Investor | Present  
 - Managed a five-digit portfolio with over 200% growth in two years.
 - Created a Python program to send portfolio updates via AWS twice a day.
 
