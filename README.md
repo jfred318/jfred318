@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a sophomore at Auburn University studying Soft
 ## 🎓 Education
 
 **Auburn University, Honors College**  
-Bachelor of Software Engineering | GPA: 3.23  
+Bachelor of Software Engineering 
 _Auburn, AL_ | _Expected Graduation: May 2027_
 
 ---
